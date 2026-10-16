@@ -1,5 +1,5 @@
-AutoS12 Etiketten V2.3
-Excel XLSX: max. 10 ausgewählte Positionen pro Export, Text 5,5 pt.
+AutoS12 Etiketten V2.5
+Excel XLSX: maximal 40 ausgewählte Positionen pro Export, Text 5,5 pt.
+Dateiname: Druck_TT_HHMM.xlsx, z. B. Druck_16_2045.xlsx (Tag und Uhrzeit des Geräts).
 Nach bestätigtem Druck werden nur die exportierten Positionen abgehakt.
-KATASYMBOL-Import ist noch nicht verifiziert.
 Dateien ins GitHub-Repository Etiketten-erstellen hochladen.
