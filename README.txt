@@ -1,4 +1,5 @@
-AutoS12 Etiketten V2.2
-PDF-Export: 40 x 12 mm, eine Artikelnummer je PDF-Seite.
-Dateien im Stammverzeichnis des GitHub-Repositories hochladen.
-Hinweis: PDF-Import und korrekte Druckgroesse in KATASYMBOL noch nicht bestaetigt.
+AutoS12 Etiketten V2.3
+Excel XLSX: max. 10 ausgewählte Positionen pro Export, Text 5,5 pt.
+Nach bestätigtem Druck werden nur die exportierten Positionen abgehakt.
+KATASYMBOL-Import ist noch nicht verifiziert.
+Dateien ins GitHub-Repository Etiketten-erstellen hochladen.
