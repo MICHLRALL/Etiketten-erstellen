@@ -1,3 +1,4 @@
-AutoS12 Etiketten V2.0 – Standard-XLSX-Export mit sharedStrings und Textformat. KATASYMBOL-Import noch nicht bestaetigt. Alle Dateien in GitHub-Repository hochladen.
-
-V2.1: Excel 2003 XML mit .xls-Endung als Kompatibilitaetstest. Dies ist kein binaeres BIFF-XLS. KATASYMBOL-Unterstuetzung unbestaetigt. Direkte Drucker- und Browser-Druckbedienfelder ausgeblendet.
+AutoS12 Etiketten V2.2
+PDF-Export: 40 x 12 mm, eine Artikelnummer je PDF-Seite.
+Dateien im Stammverzeichnis des GitHub-Repositories hochladen.
+Hinweis: PDF-Import und korrekte Druckgroesse in KATASYMBOL noch nicht bestaetigt.
