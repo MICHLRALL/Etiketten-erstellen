@@ -1,10 +1,6 @@
-AutoS12 Etiketten V1.0
-
-1. Die drei Dateien index.html, manifest.webmanifest und sw.js in ein NEUES GitHub-Repository hochladen.
-2. GitHub Pages aktivieren und Seite am Handy öffnen.
-3. AutoS12_Aenderungen.csv laden, gewünschte Zeilen anhaken und ETIKETTEN DRUCKEN drücken.
-4. Erst nach bestätigtem erfolgreichen Druck auf 'Ja – Häkchen entfernen' tippen.
-
-Hinweis: Dies ist eine Druckvorschau für den Android-/Browser-Druckdialog, keine direkte Bluetooth-Steuerung des SUPVAN E11. Ob der KATASYMBOL-Treiber den Auftrag annimmt, muss getestet werden. Ohne passende Druckintegration kann diese Version noch nicht automatisch an den E11 drucken.
-
-V1.1: Spalte Nummer wird als Artikelnummer erkannt. Warnung bei sehr vielen CSV-Eintraegen.
+AutoS12 Etiketten V1.2
+CSV-Spalten Nummer, Bezeichnung, Menge, Datum und Typ werden angezeigt.
+Gedruckt wird ausschließlich die Artikelnummer, 40 x 12 mm per CSS-Drucklayout.
+Hinweis: Der Android-Browser-Druckdialog kann trotzdem A4 anbieten. Direkter SUPVAN E11 Bluetooth-Druck ist NICHT integriert.
+Vier Dateien in das GitHub-Repository Etiketten-erstellen hochladen und bestehende ersetzen.
+Offline nach erfolgreichem erstmaligem Laden via Service Worker. CSV bleibt lokal gespeichert.
