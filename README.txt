@@ -1,1 +1,1 @@
-AutoS12 Etiketten V1.9 – Excel-Dateistruktur korrigiert. Alle 6 Dateien ins Stammverzeichnis des GitHub-Repositories hochladen. Der KATASYMBOL-Import ist noch nicht auf dem Gerät bestätigt.
+AutoS12 Etiketten V2.0 – Standard-XLSX-Export mit sharedStrings und Textformat. KATASYMBOL-Import noch nicht bestaetigt. Alle Dateien in GitHub-Repository hochladen.
